@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Şeymanur</h1>
 <h3 align="center">I am working as a full stack developer in Turkey</h3>
 
-- 🔭 I’m currently working on **Deepwork and Noan**
 
 - 💬 Ask me about **.Net Core**
 
