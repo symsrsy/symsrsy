@@ -10,7 +10,7 @@ and real-world operational workflows.
 </p>
 
 <p align="center">
-  <a href="sirabizde.com">
+  <a href="https://sirabizde.com">
     🌐 Portfolio
   </a>
   &nbsp;•&nbsp;
