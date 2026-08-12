@@ -43,6 +43,9 @@ MaintenAI combines maintenance management workflows with AI-assisted technical
 knowledge retrieval, semantic search, fault tracking, machine management and
 technical documentation.
 
+> 🔐 **Demo Access:**  
+> Please contact me to request demo credentials (username and password).
+
 [View MaintenAI →](https://github.com/symsrsy/maintenai-ai-maintenance-platform)
 
 ---
