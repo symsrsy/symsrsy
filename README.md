@@ -17,10 +17,7 @@ and real-world operational workflows.
   <a href="https://linkedin.com/in/seymanursarisoy">
     LinkedIn
   </a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/symsrsy">
-    GitHub
-  </a>
+
 </p>
 
 ---
